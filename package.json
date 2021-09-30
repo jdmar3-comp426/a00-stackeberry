@@ -1,0 +1,19 @@
+{
+  "name": "a00-stackeberry",
+  "version": "1.0.0",
+  "description": "Assignment 0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jdmar3-comp426/a00-stackeberry.git"
+  },
+  "author": "Sam Tackeberry",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jdmar3-comp426/a00-stackeberry/issues"
+  },
+  "homepage": "https://github.com/jdmar3-comp426/a00-stackeberry#readme"
+}
